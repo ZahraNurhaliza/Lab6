@@ -34,17 +34,17 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 ### Program
 ![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.1(Program).png)
 ![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.2(Program).png)
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.3(Program).png
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.4(Program).png
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.3(Program).png)
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.4(Program).png)
 
 ### RUN
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.1(RUN).png
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.2(RUN).png
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.3(RUN).png
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.4(RUN).png
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.5(RUN).png
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.6(RUN).png
-![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.7(RUN).png
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.1(RUN).png)
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.2(RUN).png)
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.3(RUN).png)
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.4(RUN).png)
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.5(RUN).png)
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.6(RUN).png)
+![image](https://github.com/ZahraNurhaliza/Lab6/blob/main/screenshot/Lab6.7(RUN).png)
 
 
 ### Penjelasan
